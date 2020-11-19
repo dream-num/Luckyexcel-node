@@ -20,7 +20,9 @@ node app.js
 ```
 Then visit `http://localhost:3000/luckyexcel`.
 
-You can see the converted excel json returned by the backend
+You can see the converted excel json returned by the backend.
+
+The core code is in [luckyexcel.js](./controllers/luckyexcel.js)
 
 ## Resources
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet)

@@ -22,6 +22,8 @@ node app.js
 
 即可看到后端返回的转换好的excel json
 
+核心代码在[luckyexcel.js](./controllers/luckyexcel.js)
+
 ## 资源
 - [Luckysheet](https://github.com/mengshukeji/Luckysheet)
 - [Luckysheet-vue](https://github.com/mengshukeji/Luckysheet-vue)
