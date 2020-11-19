@@ -1,0 +1,27 @@
+{
+  "name": "luckyexcel-node",
+  "version": "1.0.0",
+  "description": "Luckyexcel Node usecase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengshukeji/luckyexcel-node.git"
+  },
+  "keywords": [
+    "Luckyexcel"
+  ],
+  "author": "msoffice2@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengshukeji/luckyexcel-node/issues"
+  },
+  "homepage": "https://github.com/mengshukeji/luckyexcel-node#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^10.0.0",
+    "luckyexcel": "^1.0.0"
+  }
+}
